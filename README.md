@@ -114,7 +114,7 @@ Enhanced UI animations with Framer Motion
 Multi-language support
 
 🌐 Live Deployment
-AI Dual App Live Demo
+https://sidd-ai-dual-app.vercel.app/
 
 🤖 Powered By
 Google Gemini AI – Generative text & vision intelligence
